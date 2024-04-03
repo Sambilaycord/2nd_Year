@@ -1,0 +1,4 @@
+Dynamic Programming
+    -Optimal Binary Search not working
+    -Rod Cutting not working
+
